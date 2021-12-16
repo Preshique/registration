@@ -1,0 +1,43 @@
+body {
+    background-image: url(pels.jpg);
+  
+}
+.p{
+    margin-left:1cm;
+  } 
+.pre{
+  text-align:center;
+}
+.f{
+  width:600px;
+  height:1cm;
+}
+#number{
+ width:600px;
+  height:1cm; 
+}
+.presh {
+    margin: 0.5cm 6cm 0.5cm 6cm;
+    border-style:groove;
+    border-radius: 12px;
+    background-color:indigo;
+    color: white;
+    
+}
+input {
+  padding: 12px;
+  border-radius:12px;
+  
+}
+button{
+  background-color:green;
+  text-align:center;
+  width: 600px;
+  height:1cm;
+  
+  
+}
+.d{
+  height:2cm;
+  width:600px;
+}
